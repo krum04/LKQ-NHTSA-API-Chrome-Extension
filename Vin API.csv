@@ -1,0 +1,99 @@
+0 - Suggested Vin
+1 - Error Code
+2 - Possible Values
+3 - Additional Error Text
+4 - Error Textg
+5 - Destination Market
+6 - Make
+7 - Manufacturer Name
+8 - Model
+9 - Model Year
+10 - Plant City
+11 - Series
+12 - Trim
+13 - Vehicle Type
+14 - Plan Country
+15 - Plant Name
+16 - Plant State
+17 - Trim2
+18 - Series2
+19 - Note
+20 - Base Price
+21 - Manufacturer Id
+22 - Cash For Clunkers
+23 - Body Class
+24 - Doors
+25 - Windows
+26 - Wheel Base Type
+27 - Track Width
+28 - GVWR
+29 - Bed Length
+30 - Curb Weight
+31 - Wheel Base Type
+32 - Wheel Base up to
+33 - GCWR
+34 - GCWR up to
+35 - GVWR up to
+36 - Bed Type 
+37 - Cab Type
+38 - Trailer Type Connection
+39 - Trailer Body Type
+40 - Trailer Length
+41 - Number of wheels
+42 - Wheel Size Front
+43 - Wheel Size Rear
+44 - Entertainment System
+45 - Steering Location
+46 - Number of Seats
+47 - Number of Seat Rows
+48 - Trans Style
+49 - Trans Speeds
+50 - Drive Type 
+51 - Axles
+52 - Axle Config
+53 - Brake System Type
+54 - Brake System Descrip
+55 - Battery Info
+56 - Battery Type
+57 - # of cells per mod
+58 - Battery Current Amps
+59 - Battery Current Volts
+60 - Battery Energy KWh
+61 - EV Drive Unit
+62 - Battery Current Amps up to
+63 - Battery voltage Bolts up to
+64 - Battery Energy KWh up to
+65 - # of battery mods per pack
+66 - Number of battery packs per vehicle
+67 - charger level
+68 - charger power (kw)
+69 - Number of Cylinders
+70 - Displacement CC
+71 - Displacment L
+72 - Engiine Stroke Cycles
+73 - Engine Model
+74 - Engine Power
+75 - Fuel Type
+76 - Valve Train Design
+77 - Engine Configuration
+78 - Fuel Type Secondary
+79 - Fuel Delivery / Fuel Injection Type
+80 - Engine Brake HP
+81 - Cooling Type
+82 - Engine Brake hp up to
+83 - Electrification Level
+84 - Other Engine Info
+85 - Turbo
+86 - Top Speed
+87 - Engine Manufacturer
+88 - Pretentioner
+89 - Seat Belts Type
+90 - Other Restraint Info
+91 - Curtain Air Bag Locations
+92 - Seat Cushion Air Bag Locations
+93 - Front Air Bag Locations
+94 - Knee Air Bag Locations
+95 - Side Air Bag Locations
+96 - Driver Assist
+97 - Adaptive Cruise Control
+
